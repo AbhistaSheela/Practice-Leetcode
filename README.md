@@ -70,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0543-diameter-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/AbhistaSheela/Practice/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/AbhistaSheela/Practice/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/AbhistaSheela/Practice/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
