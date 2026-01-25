@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AbhistaSheela/Practice/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/AbhistaSheela/Practice/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/AbhistaSheela/Practice/tree/master/0135-candy) |
+| [0403-frog-jump](https://github.com/AbhistaSheela/Practice/tree/master/0403-frog-jump) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AbhistaSheela/Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AbhistaSheela/Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AbhistaSheela/Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/AbhistaSheela/Practice/tree/master/0131-palindrome-partitioning) |
+| [0403-frog-jump](https://github.com/AbhistaSheela/Practice/tree/master/0403-frog-jump) |
 ## Backtracking
 |  |
 | ------- |
