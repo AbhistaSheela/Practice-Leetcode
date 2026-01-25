@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/AbhistaSheela/Practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AbhistaSheela/Practice/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/AbhistaSheela/Practice/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/AbhistaSheela/Practice/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/AbhistaSheela/Practice/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/AbhistaSheela/Practice/tree/master/0198-house-robber) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AbhistaSheela/Practice/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/AbhistaSheela/Practice/tree/master/0063-unique-paths-ii) |
 | [0131-palindrome-partitioning](https://github.com/AbhistaSheela/Practice/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/AbhistaSheela/Practice/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/AbhistaSheela/Practice/tree/master/0403-frog-jump) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AbhistaSheela/Practice/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/AbhistaSheela/Practice/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/AbhistaSheela/Practice/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
