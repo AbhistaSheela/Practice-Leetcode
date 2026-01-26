@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhistaSheela/Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/AbhistaSheela/Practice/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/AbhistaSheela/Practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AbhistaSheela/Practice/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/AbhistaSheela/Practice/tree/master/0063-unique-paths-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AbhistaSheela/Practice/tree/master/0015-3sum) |
 | [1200-minimum-absolute-difference](https://github.com/AbhistaSheela/Practice/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AbhistaSheela/Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhistaSheela/Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/AbhistaSheela/Practice/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
