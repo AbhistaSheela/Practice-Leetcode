@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/AbhistaSheela/Practice/tree/master/0135-candy) |
+| [1382-balance-a-binary-search-tree](https://github.com/AbhistaSheela/Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0543-diameter-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/AbhistaSheela/Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0543-diameter-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/AbhistaSheela/Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0543-diameter-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/AbhistaSheela/Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhistaSheela/Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [1382-balance-a-binary-search-tree](https://github.com/AbhistaSheela/Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AbhistaSheela/Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/AbhistaSheela/Practice/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
