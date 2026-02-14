@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AbhistaSheela/Practice/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/AbhistaSheela/Practice/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/AbhistaSheela/Practice/tree/master/0403-frog-jump) |
+| [0799-champagne-tower](https://github.com/AbhistaSheela/Practice/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AbhistaSheela/Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AbhistaSheela/Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/AbhistaSheela/Practice/tree/master/3640-trionic-array-ii) |
