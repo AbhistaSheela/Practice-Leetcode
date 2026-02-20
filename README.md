@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AbhistaSheela/Practice/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/AbhistaSheela/Practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/AbhistaSheela/Practice/tree/master/0131-palindrome-partitioning) |
+| [0696-count-binary-substrings](https://github.com/AbhistaSheela/Practice/tree/master/0696-count-binary-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AbhistaSheela/Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AbhistaSheela/Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AbhistaSheela/Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AbhistaSheela/Practice/tree/master/0015-3sum) |
+| [0696-count-binary-substrings](https://github.com/AbhistaSheela/Practice/tree/master/0696-count-binary-substrings) |
 ## Graph Theory
 |  |
 | ------- |
