@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AbhistaSheela/Practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/AbhistaSheela/Practice/tree/master/0131-palindrome-partitioning) |
 | [0696-count-binary-substrings](https://github.com/AbhistaSheela/Practice/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/AbhistaSheela/Practice/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AbhistaSheela/Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AbhistaSheela/Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AbhistaSheela/Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AbhistaSheela/Practice/tree/master/0015-3sum) |
+| [0761-special-binary-string](https://github.com/AbhistaSheela/Practice/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/AbhistaSheela/Practice/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AbhistaSheela/Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AbhistaSheela/Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhistaSheela/Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/AbhistaSheela/Practice/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/AbhistaSheela/Practice/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/AbhistaSheela/Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/AbhistaSheela/Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AbhistaSheela/Practice/tree/master/3721-longest-balanced-subarray-ii) |
