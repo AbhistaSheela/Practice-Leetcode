@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AbhistaSheela/Practice/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/AbhistaSheela/Practice/tree/master/0062-unique-paths) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AbhistaSheela/Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Combinatorics
 |  |
 | ------- |
@@ -242,4 +243,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/AbhistaSheela/Practice/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AbhistaSheela/Practice/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AbhistaSheela/Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
