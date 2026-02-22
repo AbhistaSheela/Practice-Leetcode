@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhistaSheela/Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/AbhistaSheela/Practice/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/AbhistaSheela/Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AbhistaSheela/Practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AbhistaSheela/Practice/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/AbhistaSheela/Practice/tree/master/0063-unique-paths-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AbhistaSheela/Practice/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/AbhistaSheela/Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AbhistaSheela/Practice/tree/master/0037-sudoku-solver) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AbhistaSheela/Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AbhistaSheela/Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AbhistaSheela/Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AbhistaSheela/Practice/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/AbhistaSheela/Practice/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/AbhistaSheela/Practice/tree/master/0079-word-search) |
