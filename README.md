@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AbhistaSheela/Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AbhistaSheela/Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AbhistaSheela/Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/AbhistaSheela/Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3379-transformed-array](https://github.com/AbhistaSheela/Practice/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AbhistaSheela/Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AbhistaSheela/Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/AbhistaSheela/Practice/tree/master/0135-candy) |
 | [1382-balance-a-binary-search-tree](https://github.com/AbhistaSheela/Practice/tree/master/1382-balance-a-binary-search-tree) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/AbhistaSheela/Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/AbhistaSheela/Practice/tree/master/1382-balance-a-binary-search-tree) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/AbhistaSheela/Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/AbhistaSheela/Practice/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AbhistaSheela/Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AbhistaSheela/Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/AbhistaSheela/Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3640-trionic-array-ii](https://github.com/AbhistaSheela/Practice/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/AbhistaSheela/Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Backtracking
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/AbhistaSheela/Practice/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AbhistaSheela/Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AbhistaSheela/Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/AbhistaSheela/Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AbhistaSheela/Practice/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
 |  |
@@ -248,4 +253,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/AbhistaSheela/Practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AbhistaSheela/Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/AbhistaSheela/Practice/tree/master/0868-binary-gap) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/AbhistaSheela/Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
