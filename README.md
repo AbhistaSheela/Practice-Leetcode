@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/AbhistaSheela/Practice/tree/master/0403-frog-jump) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AbhistaSheela/Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/AbhistaSheela/Practice/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AbhistaSheela/Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AbhistaSheela/Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AbhistaSheela/Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AbhistaSheela/Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AbhistaSheela/Practice/tree/master/0015-3sum) |
 | [0761-special-binary-string](https://github.com/AbhistaSheela/Practice/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/AbhistaSheela/Practice/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AbhistaSheela/Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AbhistaSheela/Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AbhistaSheela/Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/AbhistaSheela/Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AbhistaSheela/Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/AbhistaSheela/Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/AbhistaSheela/Practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AbhistaSheela/Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/AbhistaSheela/Practice/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AbhistaSheela/Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AbhistaSheela/Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/AbhistaSheela/Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Rolling Hash
