@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AbhistaSheela/Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3379-transformed-array](https://github.com/AbhistaSheela/Practice/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AbhistaSheela/Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AbhistaSheela/Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AbhistaSheela/Practice/tree/master/0131-palindrome-partitioning) |
 | [0696-count-binary-substrings](https://github.com/AbhistaSheela/Practice/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/AbhistaSheela/Practice/tree/master/0761-special-binary-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AbhistaSheela/Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AbhistaSheela/Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AbhistaSheela/Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AbhistaSheela/Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AbhistaSheela/Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/AbhistaSheela/Practice/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AbhistaSheela/Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AbhistaSheela/Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AbhistaSheela/Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/AbhistaSheela/Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Rolling Hash
