@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AbhistaSheela/Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/AbhistaSheela/Practice/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AbhistaSheela/Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/AbhistaSheela/Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AbhistaSheela/Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AbhistaSheela/Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AbhistaSheela/Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AbhistaSheela/Practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AbhistaSheela/Practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/AbhistaSheela/Practice/tree/master/1980-find-unique-binary-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/AbhistaSheela/Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AbhistaSheela/Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AbhistaSheela/Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AbhistaSheela/Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AbhistaSheela/Practice/tree/master/0015-3sum) |
 | [0696-count-binary-substrings](https://github.com/AbhistaSheela/Practice/tree/master/0696-count-binary-substrings) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/AbhistaSheela/Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Graph Theory
 |  |
 | ------- |
