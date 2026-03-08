@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AbhistaSheela/Practice/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/AbhistaSheela/Practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/AbhistaSheela/Practice/tree/master/0131-palindrome-partitioning) |
+| [0344-reverse-string](https://github.com/AbhistaSheela/Practice/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/AbhistaSheela/Practice/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/AbhistaSheela/Practice/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AbhistaSheela/Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AbhistaSheela/Practice/tree/master/0015-3sum) |
+| [0344-reverse-string](https://github.com/AbhistaSheela/Practice/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/AbhistaSheela/Practice/tree/master/0696-count-binary-substrings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AbhistaSheela/Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Graph Theory
