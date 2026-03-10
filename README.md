@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AbhistaSheela/Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/AbhistaSheela/Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AbhistaSheela/Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AbhistaSheela/Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/AbhistaSheela/Practice/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/AbhistaSheela/Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Backtracking
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AbhistaSheela/Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AbhistaSheela/Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/AbhistaSheela/Practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/AbhistaSheela/Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AbhistaSheela/Practice/tree/master/3721-longest-balanced-subarray-ii) |
