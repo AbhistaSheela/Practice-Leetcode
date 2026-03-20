@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AbhistaSheela/Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AbhistaSheela/Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/AbhistaSheela/Practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AbhistaSheela/Practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3379-transformed-array](https://github.com/AbhistaSheela/Practice/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AbhistaSheela/Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AbhistaSheela/Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AbhistaSheela/Practice/tree/master/0079-word-search) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AbhistaSheela/Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AbhistaSheela/Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AbhistaSheela/Practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/AbhistaSheela/Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Sliding Window
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AbhistaSheela/Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AbhistaSheela/Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AbhistaSheela/Practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3714-longest-balanced-substring-ii](https://github.com/AbhistaSheela/Practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/AbhistaSheela/Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AbhistaSheela/Practice/tree/master/3721-longest-balanced-subarray-ii) |
