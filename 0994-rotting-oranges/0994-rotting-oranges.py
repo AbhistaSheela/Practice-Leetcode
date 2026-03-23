@@ -1,37 +1,26 @@
-from collections import deque
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
-        rows=len(grid)
-        cols=len(grid[0])
+        res=0
         fresh=0
-        queue=deque()
-        directions=[(0,1),(0,-1),(1,0),(-1,0)]
-        for i in range(rows):
-            for j in range(cols):
-                if grid[i][j]==2:
-                    queue.append((i,j))
-                if grid[i][j]==1:
-                    fresh=1
-        if not queue:
-            if fresh==1:
-                return -1
-            else:
-                return 0
-        time=0
-        while queue:
-            for i in range(len(queue)):
-                curr_i,curr_j=queue.popleft()
-                for i_off, j_off in directions:
-                    new_i,new_j=curr_i+i_off , curr_j+j_off
-                    if new_i < 0 or new_j<0 or new_i>=rows or new_j>=cols:
-                        continue
-                    if grid[new_i][new_j]!=1:
-                        continue
-                    grid[new_i][new_j]=2
-                    queue.append((new_i,new_j))
-            time+=1
-        for i in range(rows):
-            for j in range(cols):
-                if grid[i][j]==1:
-                    return -1
-        return time-1
+        rows,cols=len(grid),len(grid[0])
+        q=[]
+        dirs=[(0,1),(0,-1),(1,0),(-1,0)]
+        for r in range(rows):
+            for c in range(cols):
+                if grid[r][c]==2:
+                    q.append((r,c,0))
+                if grid[r][c]==1:
+                    fresh+=1
+        while q:
+            row,col,x=q.pop(0)
+            for dr,dc in dirs:
+                r,c=row+dr, col+dc
+                if 0<=r<rows and 0<=c<cols and grid[r][c]==1:
+                    grid[r][c]=2
+                    fresh-=1
+                    q.append((r,c,x+1))
+                    res=max(res,x+1)
+        if fresh==0:
+            return res
+        else:
+            return -1
