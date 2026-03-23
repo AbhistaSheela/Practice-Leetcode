@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AbhistaSheela/Practice/tree/master/0200-number-of-islands) |
 | [0403-frog-jump](https://github.com/AbhistaSheela/Practice/tree/master/0403-frog-jump) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AbhistaSheela/Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0994-rotting-oranges](https://github.com/AbhistaSheela/Practice/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/AbhistaSheela/Practice/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AbhistaSheela/Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AbhistaSheela/Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/AbhistaSheela/Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/AbhistaSheela/Practice/tree/master/0994-rotting-oranges) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AbhistaSheela/Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AbhistaSheela/Practice/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/AbhistaSheela/Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AbhistaSheela/Practice/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/AbhistaSheela/Practice/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AbhistaSheela/Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AbhistaSheela/Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AbhistaSheela/Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
