@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/AbhistaSheela/Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AbhistaSheela/Practice/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/AbhistaSheela/Practice/tree/master/0802-find-eventual-safe-states) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AbhistaSheela/Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/AbhistaSheela/Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AbhistaSheela/Practice/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AbhistaSheela/Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/AbhistaSheela/Practice/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/AbhistaSheela/Practice/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/AbhistaSheela/Practice/tree/master/0994-rotting-oranges) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AbhistaSheela/Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/AbhistaSheela/Practice/tree/master/0802-find-eventual-safe-states) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AbhistaSheela/Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AbhistaSheela/Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AbhistaSheela/Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AbhistaSheela/Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/AbhistaSheela/Practice/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
