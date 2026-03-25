@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/AbhistaSheela/Practice/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AbhistaSheela/Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AbhistaSheela/Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/AbhistaSheela/Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AbhistaSheela/Practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/AbhistaSheela/Practice/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/AbhistaSheela/Practice/tree/master/3640-trionic-array-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AbhistaSheela/Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AbhistaSheela/Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AbhistaSheela/Practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/AbhistaSheela/Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/AbhistaSheela/Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Sliding Window
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AbhistaSheela/Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/AbhistaSheela/Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/AbhistaSheela/Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AbhistaSheela/Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AbhistaSheela/Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AbhistaSheela/Practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/AbhistaSheela/Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/AbhistaSheela/Practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/AbhistaSheela/Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AbhistaSheela/Practice/tree/master/3721-longest-balanced-subarray-ii) |
