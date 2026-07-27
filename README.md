@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AbhistaSheela/Practice/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/AbhistaSheela/Practice/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/AbhistaSheela/Practice/tree/master/0761-special-binary-string) |
+| [0856-score-of-parentheses](https://github.com/AbhistaSheela/Practice-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AbhistaSheela/Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AbhistaSheela/Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AbhistaSheela/Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/AbhistaSheela/Practice-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AbhistaSheela/Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Binary Search Tree
 |  |
